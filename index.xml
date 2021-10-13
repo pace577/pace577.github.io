@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi! This is Prabhat.</title>
+    <link>https://pace577.github.io/</link>
+    <description>Recent content on Hi! This is Prabhat.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 13 Oct 2021 08:16:52 +0530</lastBuildDate><atom:link href="https://pace577.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New series - &#39;Exploring Research in AI&#39;</title>
+      <link>https://pace577.github.io/posts/2021/10/new-series-exploring-research-in-ai/</link>
+      <pubDate>Wed, 13 Oct 2021 08:16:52 +0530</pubDate>
+      
+      <guid>https://pace577.github.io/posts/2021/10/new-series-exploring-research-in-ai/</guid>
+      <description>Exploring research areas in pursuit of the ideal graduate specialization. Have you ever been in a situation where you are presented with a choices from which you must pick one, and you are unable to make a choice because you like all of them? If you were, how do you begin to solve this problem? One approach is to pick any one and go with it, but there is a remote chance that you will not like your choice in the future and regret not thinking before making the choice.</description>
+    </item>
+    
+  </channel>
+</rss>
