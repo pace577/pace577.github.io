@@ -1,0 +1,20 @@
+#+TITLE: Personal Blog
+
+This is my personal blog site,
+
+* Information
+- Website made using the Hugo static site generator.
+- Theme used: Hello Friend NG
+
+* Configuration
+Use the ~config.toml~ file in the root directory to make global changes to the website. Refer to the Hugo documentation for other changes. I will write here about any custom changes made.
+
+* Deployment
+To deploy after updating the website content, navigate to the root directory and run the ~deploy.sh~ script. This should prompt you for a commit message, after entering which the site will be deployed.
+
+The site is currently deployed on https://pace577.github.io using GitHub Pages.
+
+* Tasks ahead [0/2]
+- [ ] Complete writing the About page
+- [ ] Come up with a good website name. Will use that to get my own domain name.
+- Might eventually shift to Gitlab later.
