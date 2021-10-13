@@ -196,7 +196,7 @@ disableHugoGeneratorInject = false
     name       = "Posts"
     url        = "posts/"
     weight     = 2
-  # [[menu.main]]
-  #   name       = "Series"
-  #   url        = "series/"
-  #   weight     = 3
+  [[menu.main]]
+    name       = "Series"
+    url        = "series/"
+    weight     = 3
