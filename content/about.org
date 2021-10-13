@@ -1,0 +1,9 @@
+---
+title: "About"
+date: 2021-10-13T10:55:11+05:30
+draft: true
+---
+
+I am Prabhat, an undergrad Engineering student interesting in everything! I'm just starting out on my blogging journey and I have a rather tiny presence on the internet. Hopefully that would change with time.
+
+Since writing this introduction seems quite intimidating, I'll postpone this task to a later date. For now, check out my [[/posts][posts]]!

@@ -1,0 +1,8 @@
+---
+title: "New series - 'Exploring Research in AI'"
+date: 2021-10-13T08:16:52+05:30
+draft: true
+series: ["Exploring Research in AI"]
+---
+
+Exploring research areas in pursuit of the ideal graduate specialization.
