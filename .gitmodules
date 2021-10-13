@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:pace577/pace577.github.io.git
+	branch = main
