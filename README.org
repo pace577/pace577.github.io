@@ -1,10 +1,10 @@
 #+TITLE: Personal Blog
 
-This is my personal blog site,
+This is my personal blog site.
 
 * Information
-- Website made using the Hugo static site generator.
-- Theme used: Hello Friend NG
+- Website made using the [[https://gohugo.io/][Hugo static site generator]].
+- Theme used: [[https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/][Hello Friend NG]]
 
 * Configuration
 Use the ~config.toml~ file in the root directory to make global changes to the website. Refer to the Hugo documentation for other changes. I will write here about any custom changes made.
