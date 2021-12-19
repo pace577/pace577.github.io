@@ -192,11 +192,19 @@ disableHugoGeneratorInject = false
     url        = "about/"
     weight     = 1
   [[menu.main]]
+    name       = "Projects"
+    url        = "categories/projects/"
+    weight     = 2
+  [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
-    weight     = 2
-  [[menu.main]]
-    name       = "Series"
-    url        = "series/"
     weight     = 3
+  [[menu.main]]
+    name       = "Categories"
+    url        = "categories/"
+    weight     = 4
+  [[menu.main]]
+    name       = "Tags"
+    url        = "tags/"
+    weight     = 5
