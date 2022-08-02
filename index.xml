@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi! This is Prabhat.</title>
+    <title>Blogging Newb</title>
     <link>https://pace577.github.io/</link>
-    <description>Recent content on Hi! This is Prabhat.</description>
+    <description>Recent content on Blogging Newb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://pace577.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 02 Aug 2022 14:54:03 +0530</lastBuildDate><atom:link href="https://pace577.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://pace577.github.io/posts/2022/08/first-post/</link>
+      <pubDate>Tue, 02 Aug 2022 14:54:03 +0530</pubDate>
+      
+      <guid>https://pace577.github.io/posts/2022/08/first-post/</guid>
+      <description>I was listening to Brian Armstrong being interviewed on the Lex Fridman&amp;#39;s podcast when I heard him say the following (or something along those lines).
+&amp;#34;Don&amp;#39;t think too much, just try something. Only then will you be able to figure something out.&amp;#34;
+I have been intending to start a blog for quite some time now, but I was never able to finish a post. I&amp;#39;ve made multiple excuses for myself, saying that I don&amp;#39;t have the time or that the post is not perfect (It needs to be perfect, right?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pace577.github.io/about/</link>
+      <pubDate>Wed, 13 Oct 2021 10:55:11 +0530</pubDate>
+      
+      <guid>https://pace577.github.io/about/</guid>
+      <description>I decided to write a blog on a whim and I absolutely didn&amp;#39;t have anything in mind for the About page.
+For now, check out my posts maybe?</description>
+    </item>
+    
   </channel>
 </rss>
