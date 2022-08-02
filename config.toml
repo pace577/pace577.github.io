@@ -1,6 +1,6 @@
 baseURL = "https://pace577.github.io"
 languageCode = "en-us"
-title = "Hi! This is Prabhat."
+title = "Blogging Newb"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Blogging newb. On constant lookout for interesting things."
+  homeSubtitle = "On constant lookout for interesting things."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"

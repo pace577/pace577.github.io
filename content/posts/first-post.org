@@ -1,0 +1,23 @@
+---
+title: "First Post"
+date: 2022-08-02T14:54:03+05:30
+draft: false
+---
+
+I was listening to Brian Armstrong being interviewed on the Lex Fridman's podcast when I heard him say the following (or something along those lines).
+
+#+begin_quote
+"Don't think too much, just try something. Only then will you be able to figure something out."
+#+end_quote
+
+I have been intending to start a blog for quite some time now, but I was never able to finish a post. I've made multiple excuses for myself, saying that I don't have the time or that the post is not /perfect/ (It needs to be perfect, right?). But listening to Brian say that (although he meant it for startups), I decided to go ahead and write a blog post (cause why not?). I know I'm going to make some mistakes, and I hope that I do, because that would at least make me lose the fear of making mistakes. I need to make mistakes because that is how I learn, and the same goes for you.
+
+I have a lot of things that I want to talk about, and sadly enough, I believe that don't have enough knowledge to properly talk about any of them. Maybe I'll bring up enough courage to talk about such topics soon, but for now, I'll stick to something I'm familiar with - /my inner voice/.
+
+What do I mean by my inner voice? The voice that tells you to sleep when you wake up lazy early in the morning. The voice that tells you that you need to wake up immediately because you will be late for your meeting with your project guide otherwise. The voice that prevents you from asking a question in a class, because you're afraid of judgement from others in the class. The voice that prevents you from running on the streets naked because you're aware of the decorum you need to maintain in the society. It's not something your ear processes. In fact, it often doesn't have a voice itself. Then why do I call it voice? Because that's how I heard others call it, and I want you to understand what I'm saying.
+
+I'd like to give it a term, so let's call it /cheese/ (as in something you eat, yes). I believe everyone has cheese in their heads. It has the abiility to govern your behaviour more than you think, and I believe that cheese likes you to do things that you are comfortable with. That is, cheese wants you to stay in your comfort zone. That's good, because it saves you from lots of things in the society, but you don't start doing new things if you stay inside your comfort zone. So, every once in a while, you need to /override/ the cheese inside your head and get out of your comfort zone. I'm doing it right now as I'm writing the blog, and I'm very scared, but I feel very good about it.
+
+The thing that helped me override the cheese inside my head is my /inner voice/. Don't get me wrong, I'm not referring to cheese. I'm referring to the conscious voice inside your head that does have language. You use the power of language to manifest an inner voice that can speak to your brain, and if you are able to convince yourself and win the argument against the cheese inside your head, you have control. I'd like to call this the /inner voice/, because it is more like an actual voice than cheese is, because it's language has a structure (although, it doesn't really have a voice, my bad)
+
+I''m getting late for my CS 725 class, so I'll go now. I'll post this of course, but I'm gonna keep this in my mind.

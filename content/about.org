@@ -1,9 +1,12 @@
 ---
 title: "About"
 date: 2021-10-13T10:55:11+05:30
-draft: true
+draft: false
 ---
 
-I am Prabhat, an undergrad Engineering student interesting in everything! I'm just starting out on my blogging journey and I have a rather tiny presence on the internet. Hopefully that would change with time.
+# I am Prabhat, currently a 4th year undergrad student studying Electrical Engineering at IIT Tirupati (For those who aren't familiar, IIT stands for Indian Institute of Technology. If you're Indian, then yes, there's an IIT in Tirupati.). I'm just starting out on my blogging journey and I have a tiny presence on the internet. This blog is my feeble attempt to leave a mark on this thing called the internet that might live a little longer than me.
 
-Since writing this introduction seems quite intimidating, I'll postpone this task to a later date. For now, check out my [[/posts][posts]]!
+# Since writing this introduction seems quite intimidating, I'll postpone this task to a later date. For now, check out my [[/posts][posts]]!
+I decided to write a blog on a whim and I absolutely didn't have anything in mind for the /About/ page.
+
+For now, check out my [[/posts][posts]] maybe?
