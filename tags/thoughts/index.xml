@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life on Blogging Newb</title>
-    <link>https://pace577.github.io/tags/life/</link>
-    <description>Recent content in Life on Blogging Newb</description>
+    <title>Thoughts on Blogging Newb</title>
+    <link>https://pace577.github.io/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Blogging Newb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 25 Aug 2022 14:47:05 +0530</lastBuildDate><atom:link href="https://pace577.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 21:01:35 +0530</lastBuildDate><atom:link href="https://pace577.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Duality</title>
+      <link>https://pace577.github.io/posts/2022/09/duality/</link>
+      <pubDate>Mon, 12 Sep 2022 21:01:35 +0530</pubDate>
+      
+      <guid>https://pace577.github.io/posts/2022/09/duality/</guid>
+      <description>Growing up as a mathematics student taught me a thing or two about problem-solving, and most (if not all) math students love elegant solutions to problems. Back when I was 11th grade, the math teacher used to gave the entire class a small set of problems to solve, and discuss the solutions to these problems in the next class. The interesting thing was that he always discussed multiple ways to solve the same problem.</description>
+    </item>
+    
     <item>
       <title>Sleep</title>
       <link>https://pace577.github.io/posts/2022/08/sleep/</link>
@@ -25,6 +34,17 @@ It wasn&amp;#39;t always like this. There were times when I slept around 8 hours
       
       <guid>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</guid>
       <description>I don&amp;#39;t think I take proper care of myself. It&amp;#39;s not that I have good intentions, but somehow those intentions do not seem to translate into actions. I want to eat healthy food 3 times a day, drink plenty of water everyday, take 2 baths a day, read news everyday, learn something new everyday, talk to my parents everyday and do many more things! But I look at my lifestyle and I look at the list of things I want to do above, and I think to myself &amp;#34;How in the world can I do all that in a day?</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://pace577.github.io/posts/2022/08/first-post/</link>
+      <pubDate>Tue, 02 Aug 2022 14:54:03 +0530</pubDate>
+      
+      <guid>https://pace577.github.io/posts/2022/08/first-post/</guid>
+      <description>I was listening to Brian Armstrong being interviewed on the Lex Fridman&amp;#39;s podcast when I heard him say the following (or something along those lines).
+&amp;#34;Don&amp;#39;t think too much, just try something. Only then will you be able to figure something out.&amp;#34;
+I have been intending to start a blog for quite some time now, but I was never able to finish a post. I&amp;#39;ve made multiple excuses for myself, saying that I don&amp;#39;t have the time or that the post is not perfect (It needs to be perfect, right?</description>
     </item>
     
   </channel>

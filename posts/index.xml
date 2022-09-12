@@ -6,8 +6,34 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Thu, 25 Aug 2022 14:47:05 +0530</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 21:01:35 +0530</lastBuildDate>
         <atom:link href="https://pace577.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Duality</title>
+            <link>https://pace577.github.io/posts/2022/09/duality/</link>
+            <pubDate>Mon, 12 Sep 2022 21:01:35 +0530</pubDate>
+            
+            <guid>https://pace577.github.io/posts/2022/09/duality/</guid>
+            <description>Growing up as a mathematics student taught me a thing or two about problem-solving, and most (if not all) math students love elegant solutions to problems. Back when I was 11th grade, the math teacher used to gave the entire class a small set of problems to solve, and discuss the solutions to these problems in the next class. The interesting thing was that he always discussed multiple ways to solve the same problem.</description>
+            <content type="html"><![CDATA[<p>
+Growing up as a mathematics student taught me a thing or two about problem-solving, and most (if not all) math students <em>love</em> elegant solutions to problems. Back when I was 11th grade, the math teacher used to gave the entire class a small set of problems to solve, and discuss the solutions to these problems in the next class. The interesting thing was that he always discussed <em>multiple ways to solve the same problem</em>. Some were longer ways to do it, some were short, some were extremely short but weren&#39;t obvious, and solutions like these are what math folks tend to call <em>elegant</em>.</p>
+<p>
+After all, who doesn&#39;t want short solutions to problems in life?</p>
+<p>
+Experiences like this led me to believe that looking at a problem from multiple perspectives and finding different solutions from these perspectives is the key to mastering the art of problem-solving. And that&#39;s the reason setting out on a journey to become the best problem solver in the world is a bit disappointing; after coming up with an elegant solution to a difficult problem, you forget to feel happy and instead think &#34;is there another way?&#34;.</p>
+<p>
+I think that&#39;s what Duality is, in a sense: &#34;different ways of looking at the same thing&#34;. Heads and tails, light and darkness, order and chaos, a set and its complement, all these are dualities. Tail on a coin is the absence of head, darkness is the absence of light, chaos is the absence of order, the complement of a set is everything else but the set. The dual of something, in this group of examples, is the absence of something, as it carries the same amount of information.</p>
+<p>
+Vectors and linear functionals (Linear Algebra), time domain and frequency domain (Signal Processing), Kirchoff&#39;s junction law and loop law (Electrical Circuits) are also dualities. Notice the difference from the previous examples. Duality in this sense is not presence or absence of something, but rather, having alternate representations of the same information.</p>
+<p>
+The above is my take on duality and I might be off track here, but what got me hooked on to the idea of duality is how we find &#34;pairs&#34; of similar representations. Why aren&#39;t there more similar representations? It seems obvious for the first set of examples above, but what about the second set? Are time domain and frequency domain representations the only two ways to represent a signal, or are there more? If not, can we somehow break down this second kind of duality (having alternate representations of the same thing) and represent it as the duality of the first kind (presence and absence of something)?</p>
+<p>
+I think that&#39;s enough brain vomit for now since it&#39;s not particularly going anywhere. I came across the term today in my Applied Linear Algebra class and then watched two amazing videos by 3Blue1Brown on <a href="https://www.youtube.com/watch?v=LyGKycYT2v0">Duality in Linear algebra</a> and <a href="https://www.youtube.com/watch?v=-9OUyo8NFZg">Graph Duality</a>. If you love math or love problem solving or love good animations or if you&#39;re addicted to YouTube, I highly recommend you check these videos out!</p>
+<p>
+Until next time!</p>
+]]></content>
+        </item>
         
         <item>
             <title>Sleep</title>
@@ -84,7 +110,7 @@ I was listening to Brian Armstrong being interviewed on the Lex Fridman&#39;s po
 <p>&#34;Don&#39;t think too much, just try something. Only then will you be able to figure something out.&#34;</p>
 </blockquote>
 <p>
-I have been intending to start a blog for quite some time now, but I was never able to finish a post. I&#39;ve made multiple excuses for myself, saying that I don&#39;t have the time or that the post is not <em>perfect</em> (It needs to be perfect, right?). But listening to Brian say that (although he meant it for startups), I decided to go ahead and write a blog post (cause why not?). I know I&#39;m going to make some mistakes, and I hope that I do, because that would at least make me lose the fear of making mistakes. I need to make mistakes because that is how I learn, and the same goes for you.</p>
+I have been intending to start a blog for quite some time now, but I was never able to finish a post. I&#39;ve made multiple excuses for myself, saying that I don&#39;t have the time or that the post is not <em>perfect</em> (It needs to be perfect, right?). But after listening to Brian say that (although he meant it for startups), I decided to go ahead and write a blog post (cause why not?). I know I&#39;m going to make some mistakes, and I hope that I do, because that would at least make me lose the fear of making mistakes. I need to make mistakes because that is how I learn, and the same goes for you.</p>
 <p>
 I have a lot of things that I want to talk about, and sadly enough, I believe that don&#39;t have enough knowledge to properly talk about any of them. Maybe I&#39;ll bring up enough courage to talk about such topics soon, but for now, I&#39;ll stick to something I&#39;m familiar with - <em>my inner voice</em>.</p>
 <p>
@@ -94,7 +120,7 @@ I&#39;d like to give it a term, so let&#39;s call it <em>cheese</em> (as in some
 <p>
 The thing that helped me override the cheese inside my head is my <em>inner voice</em>. Don&#39;t get me wrong, I&#39;m not referring to cheese. I&#39;m referring to the conscious voice inside your head that does have language. You use the power of language to manifest an inner voice that can speak to your brain, and if you are able to convince yourself and win the argument against the cheese inside your head, you have control. I&#39;d like to call this the <em>inner voice</em>, because it is more like an actual voice than cheese is, because it&#39;s language has a structure (although, it doesn&#39;t really have a voice, my bad)</p>
 <p>
-I&#39;&#39;m getting late for my CS 725 class, so I&#39;ll go now. I&#39;ll post this of course, but I&#39;m gonna keep this in my mind.</p>
+I&#39;m getting late for my CS 725 class, so I&#39;ll go now. I&#39;ll post this of course, but I&#39;m gonna keep this in my mind.</p>
 ]]></content>
         </item>
         
