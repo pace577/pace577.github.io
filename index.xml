@@ -1,47 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogging Newb</title>
+    <title>Prabhat Reddy</title>
     <link>https://pace577.github.io/</link>
-    <description>Recent content on Blogging Newb</description>
+    <description>Recent content on Prabhat Reddy</description>
+    <image>
+      <url>https://pace577.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pace577.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 21:01:35 +0530</lastBuildDate><atom:link href="https://pace577.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 20:26:06 +0530</lastBuildDate><atom:link href="https://pace577.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up a blog with Hugo</title>
+      <link>https://pace577.github.io/posts/setting-up-my-blog-with-hugo/</link>
+      <pubDate>Wed, 04 Jan 2023 20:26:06 +0530</pubDate>
+      
+      <guid>https://pace577.github.io/posts/setting-up-my-blog-with-hugo/</guid>
+      <description>This post is going to be part tutorial, part conversation, and part rant. If you have come here to know how to set up a blog using Hugo, please try not to get annoyed by the occasional rant. You have been warned.
+I have always wanted to start a blog, despite having no idea what to write about. One fine day I decided to just start a blog and decide later about what to write.</description>
+    </item>
+    
     <item>
       <title>Duality</title>
-      <link>https://pace577.github.io/posts/2022/09/duality/</link>
+      <link>https://pace577.github.io/posts/duality/</link>
       <pubDate>Mon, 12 Sep 2022 21:01:35 +0530</pubDate>
       
-      <guid>https://pace577.github.io/posts/2022/09/duality/</guid>
+      <guid>https://pace577.github.io/posts/duality/</guid>
       <description>Growing up as a mathematics student taught me a thing or two about problem-solving, and most (if not all) math students love elegant solutions to problems. Back when I was 11th grade, the math teacher used to gave the entire class a small set of problems to solve, and discuss the solutions to these problems in the next class. The interesting thing was that he always discussed multiple ways to solve the same problem.</description>
     </item>
     
     <item>
       <title>Sleep</title>
-      <link>https://pace577.github.io/posts/2022/08/sleep/</link>
+      <link>https://pace577.github.io/posts/sleep/</link>
       <pubDate>Thu, 25 Aug 2022 14:47:05 +0530</pubDate>
       
-      <guid>https://pace577.github.io/posts/2022/08/sleep/</guid>
+      <guid>https://pace577.github.io/posts/sleep/</guid>
       <description>I get an average of 5 hours of sleep per day. Five hours.
 It wasn&amp;#39;t always like this. There were times when I slept around 8 hours a day. That&amp;#39;s the recommended number of hours of sleep one must get right? I heard that different people tend to sleep different amounts of time, but I&amp;#39;m pretty sure that 5 hours is not in the set of all recommended durations of sleep for a human being.</description>
     </item>
     
     <item>
       <title>Taking Care of Yourself</title>
-      <link>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</link>
+      <link>https://pace577.github.io/posts/taking-care-of-yourself/</link>
       <pubDate>Fri, 12 Aug 2022 10:07:48 +0530</pubDate>
       
-      <guid>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</guid>
+      <guid>https://pace577.github.io/posts/taking-care-of-yourself/</guid>
       <description>I don&amp;#39;t think I take proper care of myself. It&amp;#39;s not that I have good intentions, but somehow those intentions do not seem to translate into actions. I want to eat healthy food 3 times a day, drink plenty of water everyday, take 2 baths a day, read news everyday, learn something new everyday, talk to my parents everyday and do many more things! But I look at my lifestyle and I look at the list of things I want to do above, and I think to myself &amp;#34;How in the world can I do all that in a day?</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>https://pace577.github.io/posts/2022/08/first-post/</link>
+      <link>https://pace577.github.io/posts/first-post/</link>
       <pubDate>Tue, 02 Aug 2022 14:54:03 +0530</pubDate>
       
-      <guid>https://pace577.github.io/posts/2022/08/first-post/</guid>
+      <guid>https://pace577.github.io/posts/first-post/</guid>
       <description>I was listening to Brian Armstrong being interviewed on the Lex Fridman&amp;#39;s podcast when I heard him say the following (or something along those lines).
 &amp;#34;Don&amp;#39;t think too much, just try something. Only then will you be able to figure something out.&amp;#34;
 I have been intending to start a blog for quite some time now, but I was never able to finish a post. I&amp;#39;ve made multiple excuses for myself, saying that I don&amp;#39;t have the time or that the post is not perfect (It needs to be perfect, right?</description>
@@ -53,9 +65,11 @@ I have been intending to start a blog for quite some time now, but I was never a
       <pubDate>Wed, 13 Oct 2021 10:55:11 +0530</pubDate>
       
       <guid>https://pace577.github.io/about/</guid>
-      <description>I decided to write a blog on a whim and I absolutely didn&amp;#39;t have anything in mind for the About page.
-For now, check out my posts maybe?</description>
+      <description>Hi, I&amp;#39;m Prabhat. I&amp;#39;m a Master&amp;#39;s student at C-MInDS IIT Bombay studying Machine Learning and Artificial Intelligence. I like to read, write, think, watch anime, work too much, take long breaks, run away from comfort zones, think a lot before making a decision, make impulsive decisions, and that&amp;#39;s just a few things I like to do.
+The problem is that I love to do things, but I&amp;#39;m not very good at any of them.</description>
     </item>
+    
+    
     
   </channel>
 </rss>

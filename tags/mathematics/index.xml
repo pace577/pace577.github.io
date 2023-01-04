@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mathematics on Blogging Newb</title>
+    <title>Mathematics on Prabhat Reddy</title>
     <link>https://pace577.github.io/tags/mathematics/</link>
-    <description>Recent content in Mathematics on Blogging Newb</description>
+    <description>Recent content in Mathematics on Prabhat Reddy</description>
+    <image>
+      <url>https://pace577.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pace577.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 12 Sep 2022 21:01:35 +0530</lastBuildDate><atom:link href="https://pace577.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duality</title>
-      <link>https://pace577.github.io/posts/2022/09/duality/</link>
+      <link>https://pace577.github.io/posts/duality/</link>
       <pubDate>Mon, 12 Sep 2022 21:01:35 +0530</pubDate>
       
-      <guid>https://pace577.github.io/posts/2022/09/duality/</guid>
+      <guid>https://pace577.github.io/posts/duality/</guid>
       <description>Growing up as a mathematics student taught me a thing or two about problem-solving, and most (if not all) math students love elegant solutions to problems. Back when I was 11th grade, the math teacher used to gave the entire class a small set of problems to solve, and discuss the solutions to these problems in the next class. The interesting thing was that he always discussed multiple ways to solve the same problem.</description>
     </item>
     

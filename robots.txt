@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://pace577.github.io/sitemap.xml
