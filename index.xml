@@ -9,7 +9,17 @@
       <link>https://pace577.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Jan 2023 20:26:06 +0530</lastBuildDate><atom:link href="https://pace577.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 10:29:15 +0530</lastBuildDate><atom:link href="https://pace577.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Sequential Decision Making</title>
+      <link>https://pace577.github.io/posts/learn-with-me/online-learning/1-introduction/</link>
+      <pubDate>Fri, 06 Jan 2023 10:29:15 +0530</pubDate>
+      
+      <guid>https://pace577.github.io/posts/learn-with-me/online-learning/1-introduction/</guid>
+      <description>Introduction Say you are a college student and you moved to a new hostel. You go to the mess to have food, where you find two options you can choose from: rice and roti. In this situation, ponder over the following questions and get answers for them.
+Which one (between rice and roti) would you pick? Would you trust the decision that you made? Why? Would your decision change when you go to the mess the next day?</description>
+    </item>
+    
     <item>
       <title>Setting up a blog with Hugo</title>
       <link>https://pace577.github.io/posts/setting-up-my-blog-with-hugo/</link>
