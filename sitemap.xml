@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pace577.github.io/posts/is-it-okay-to-fail/</loc>
+    <loc>https://pace577.github.io/posts/2023/02/is-it-okay-to-fail/</loc>
+    <lastmod>2023-02-21T23:36:37+05:30</lastmod>
+  </url><url>
+    <loc>https://pace577.github.io/tags/life/</loc>
     <lastmod>2023-02-21T23:36:37+05:30</lastmod>
   </url><url>
     <loc>https://pace577.github.io/posts/</loc>
@@ -11,19 +14,19 @@
     <loc>https://pace577.github.io/</loc>
     <lastmod>2023-02-21T23:36:37+05:30</lastmod>
   </url><url>
-    <loc>https://pace577.github.io/posts/two-different-worlds/</loc>
+    <loc>https://pace577.github.io/tags/</loc>
+    <lastmod>2023-02-21T23:36:37+05:30</lastmod>
+  </url><url>
+    <loc>https://pace577.github.io/posts/2023/01/two-different-worlds/</loc>
     <lastmod>2023-01-22T08:30:39+05:30</lastmod>
   </url><url>
-    <loc>https://pace577.github.io/posts/learn-with-me/online-learning/1-introduction/</loc>
+    <loc>https://pace577.github.io/posts/2023/01/intro-to-sequential-decision-making/</loc>
     <lastmod>2023-01-06T10:29:15+05:30</lastmod>
   </url><url>
     <loc>https://pace577.github.io/tags/mathematics/</loc>
     <lastmod>2023-01-06T10:29:15+05:30</lastmod>
   </url><url>
     <loc>https://pace577.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2023-01-06T10:29:15+05:30</lastmod>
-  </url><url>
-    <loc>https://pace577.github.io/tags/</loc>
     <lastmod>2023-01-06T10:29:15+05:30</lastmod>
   </url><url>
     <loc>https://pace577.github.io/tags/blogging/</loc>
@@ -35,19 +38,13 @@
     <loc>https://pace577.github.io/tags/hugo/</loc>
     <lastmod>2023-01-04T20:26:06+05:30</lastmod>
   </url><url>
-    <loc>https://pace577.github.io/posts/setting-up-my-blog-with-hugo/</loc>
+    <loc>https://pace577.github.io/posts/2023/01/setting-up-my-blog-with-hugo/</loc>
     <lastmod>2023-01-04T20:26:06+05:30</lastmod>
   </url><url>
     <loc>https://pace577.github.io/tags/technology/</loc>
     <lastmod>2023-01-04T20:26:06+05:30</lastmod>
   </url><url>
-    <loc>https://pace577.github.io/posts/learn-with-me/online-learning/</loc>
-    <lastmod>2023-01-04T20:11:07+05:30</lastmod>
-  </url><url>
-    <loc>https://pace577.github.io/posts/learn-with-me/</loc>
-    <lastmod>2023-01-04T20:10:17+05:30</lastmod>
-  </url><url>
-    <loc>https://pace577.github.io/posts/duality/</loc>
+    <loc>https://pace577.github.io/posts/2022/09/duality/</loc>
     <lastmod>2022-09-12T21:01:35+05:30</lastmod>
   </url><url>
     <loc>https://pace577.github.io/tags/problem-solving/</loc>
@@ -56,16 +53,13 @@
     <loc>https://pace577.github.io/tags/thoughts/</loc>
     <lastmod>2022-09-12T21:01:35+05:30</lastmod>
   </url><url>
-    <loc>https://pace577.github.io/tags/life/</loc>
+    <loc>https://pace577.github.io/posts/2022/08/sleep/</loc>
     <lastmod>2022-08-25T14:47:05+05:30</lastmod>
   </url><url>
-    <loc>https://pace577.github.io/posts/sleep/</loc>
-    <lastmod>2022-08-25T14:47:05+05:30</lastmod>
-  </url><url>
-    <loc>https://pace577.github.io/posts/taking-care-of-yourself/</loc>
+    <loc>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</loc>
     <lastmod>2022-08-12T10:07:48+05:30</lastmod>
   </url><url>
-    <loc>https://pace577.github.io/posts/first-post/</loc>
+    <loc>https://pace577.github.io/posts/2022/08/first-post/</loc>
     <lastmod>2022-08-02T14:54:03+05:30</lastmod>
   </url><url>
     <loc>https://pace577.github.io/about/</loc>

@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Mathematics on Prabhat Reddy</title>
+    <title>Mathematics on Prabhat Lankireddy</title>
     <link>https://pace577.github.io/tags/mathematics/</link>
-    <description>Recent content in Mathematics on Prabhat Reddy</description>
+    <description>Recent content in Mathematics on Prabhat Lankireddy</description>
     <image>
+      <title>Prabhat Lankireddy</title>
       <url>https://pace577.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://pace577.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 06 Jan 2023 10:29:15 +0530</lastBuildDate><atom:link href="https://pace577.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Sequential Decision Making</title>
-      <link>https://pace577.github.io/posts/learn-with-me/online-learning/1-introduction/</link>
+      <link>https://pace577.github.io/posts/2023/01/intro-to-sequential-decision-making/</link>
       <pubDate>Fri, 06 Jan 2023 10:29:15 +0530</pubDate>
       
-      <guid>https://pace577.github.io/posts/learn-with-me/online-learning/1-introduction/</guid>
-      <description>Introduction Say you are a college student and you moved to a new hostel. You go to the mess to have food, where you find two options you can choose from: rice and roti. In this situation, ponder over the following questions and get answers for them.
-Which one (between rice and roti) would you pick? Would you trust the decision that you made? Why? Would your decision change when you go to the mess the next day?</description>
+      <guid>https://pace577.github.io/posts/2023/01/intro-to-sequential-decision-making/</guid>
+      <description>NOTE: This article was supposed to be a part of a series called &amp;#34;Learn with me&amp;#34; where I write about Online Machine Learning while I learn about it myself. The series, unfortunately, was discontinued and the second article never got out. Although it feels pointless and incomplete to have this post published, I can&amp;#39;t get myself to remove it! So here it is, in all its glory, to remind me of my lack of consistency.</description>
     </item>
     
     <item>
       <title>Duality</title>
-      <link>https://pace577.github.io/posts/duality/</link>
+      <link>https://pace577.github.io/posts/2022/09/duality/</link>
       <pubDate>Mon, 12 Sep 2022 21:01:35 +0530</pubDate>
       
-      <guid>https://pace577.github.io/posts/duality/</guid>
+      <guid>https://pace577.github.io/posts/2022/09/duality/</guid>
       <description>Growing up as a mathematics student taught me a thing or two about problem-solving, and most (if not all) math students love elegant solutions to problems. Back when I was 11th grade, the math teacher used to gave the entire class a small set of problems to solve, and discuss the solutions to these problems in the next class. The interesting thing was that he always discussed multiple ways to solve the same problem.</description>
     </item>
     
