@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Prabhat Lankireddy</title>
     <link>https://pace577.github.io/tags/life/</link>
@@ -11,36 +11,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Feb 2023 23:36:37 +0530</lastBuildDate><atom:link href="https://pace577.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 23:36:37 +0530</lastBuildDate>
+    <atom:link href="https://pace577.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is It Okay to Fail?</title>
-      <link>https://pace577.github.io/posts/2023/02/is-it-okay-to-fail/</link>
+      <link>https://pace577.github.io/posts/2023/is-it-okay-to-fail/</link>
       <pubDate>Tue, 21 Feb 2023 23:36:37 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2023/02/is-it-okay-to-fail/</guid>
+      <guid>https://pace577.github.io/posts/2023/is-it-okay-to-fail/</guid>
       <description>In episode 18 of Blue Lock, Ego-san says the following:
 Defeat is a simple phenomenon that must exist in the world of competition. Even for the world&amp;#39;s best striker, it&amp;#39;s impossible to win every single match. What matters is what you take from the defeat.
 A loser is denied by the field they are playing on. For a fighter, there is nothing worse than that despair. And yet, many average joes don&amp;#39;t carve this despair into their minds.</description>
     </item>
-    
     <item>
       <title>Sleep</title>
-      <link>https://pace577.github.io/posts/2022/08/sleep/</link>
+      <link>https://pace577.github.io/posts/2022/sleep/</link>
       <pubDate>Thu, 25 Aug 2022 14:47:05 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2022/08/sleep/</guid>
+      <guid>https://pace577.github.io/posts/2022/sleep/</guid>
       <description>I get an average of 5 hours of sleep per day. Five hours.
 It wasn&amp;#39;t always like this. There were times when I slept around 8 hours a day. That&amp;#39;s the recommended number of hours of sleep one must get right? I heard that different people tend to sleep different amounts of time, but I&amp;#39;m pretty sure that 5 hours is not in the set of all recommended durations of sleep for a human being.</description>
     </item>
-    
     <item>
       <title>Taking Care of Yourself</title>
-      <link>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</link>
+      <link>https://pace577.github.io/posts/2022/taking-care-of-yourself/</link>
       <pubDate>Fri, 12 Aug 2022 10:07:48 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</guid>
+      <guid>https://pace577.github.io/posts/2022/taking-care-of-yourself/</guid>
       <description>I don&amp;#39;t think I take proper care of myself. It&amp;#39;s not that I have good intentions, but somehow those intentions do not seem to translate into actions. I want to eat healthy food 3 times a day, drink plenty of water everyday, take 2 baths a day, read news everyday, learn something new everyday, talk to my parents everyday and do many more things! But I look at my lifestyle and I look at the list of things I want to do above, and I think to myself &amp;#34;How in the world can I do all that in a day?</description>
     </item>
-    
   </channel>
 </rss>

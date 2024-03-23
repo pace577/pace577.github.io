@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Prabhat Lankireddy</title>
     <link>https://pace577.github.io/posts/</link>
@@ -11,84 +11,76 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Feb 2023 23:36:37 +0530</lastBuildDate><atom:link href="https://pace577.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Mar 2024 18:40:55 +0530</lastBuildDate>
+    <atom:link href="https://pace577.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giving Gyan</title>
+      <link>https://pace577.github.io/posts/2024/giving-gyan/</link>
+      <pubDate>Sat, 23 Mar 2024 18:40:55 +0530</pubDate>
+      <guid>https://pace577.github.io/posts/2024/giving-gyan/</guid>
+      <description>Writing this because my hands are itching.</description>
+    </item>
     <item>
       <title>Is It Okay to Fail?</title>
-      <link>https://pace577.github.io/posts/2023/02/is-it-okay-to-fail/</link>
+      <link>https://pace577.github.io/posts/2023/is-it-okay-to-fail/</link>
       <pubDate>Tue, 21 Feb 2023 23:36:37 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2023/02/is-it-okay-to-fail/</guid>
+      <guid>https://pace577.github.io/posts/2023/is-it-okay-to-fail/</guid>
       <description>In episode 18 of Blue Lock, Ego-san says the following:
 Defeat is a simple phenomenon that must exist in the world of competition. Even for the world&amp;#39;s best striker, it&amp;#39;s impossible to win every single match. What matters is what you take from the defeat.
 A loser is denied by the field they are playing on. For a fighter, there is nothing worse than that despair. And yet, many average joes don&amp;#39;t carve this despair into their minds.</description>
     </item>
-    
     <item>
       <title>Two Different Worlds</title>
-      <link>https://pace577.github.io/posts/2023/01/two-different-worlds/</link>
+      <link>https://pace577.github.io/posts/2023/two-different-worlds/</link>
       <pubDate>Sun, 22 Jan 2023 08:30:39 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2023/01/two-different-worlds/</guid>
+      <guid>https://pace577.github.io/posts/2023/two-different-worlds/</guid>
       <description>A small poem I wrote while pondering upon how our mind works!</description>
     </item>
-    
     <item>
       <title>Introduction to Sequential Decision Making</title>
-      <link>https://pace577.github.io/posts/2023/01/intro-to-sequential-decision-making/</link>
+      <link>https://pace577.github.io/posts/2023/intro-to-sequential-decision-making/</link>
       <pubDate>Fri, 06 Jan 2023 10:29:15 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2023/01/intro-to-sequential-decision-making/</guid>
+      <guid>https://pace577.github.io/posts/2023/intro-to-sequential-decision-making/</guid>
       <description>NOTE: This article was supposed to be a part of a series called &amp;#34;Learn with me&amp;#34; where I write about Online Machine Learning while I learn about it myself. The series, unfortunately, was discontinued and the second article never got out. Although it feels pointless and incomplete to have this post published, I can&amp;#39;t get myself to remove it! So here it is, in all its glory, to remind me of my lack of consistency.</description>
     </item>
-    
     <item>
       <title>Setting up a blog with Hugo</title>
-      <link>https://pace577.github.io/posts/2023/01/setting-up-my-blog-with-hugo/</link>
+      <link>https://pace577.github.io/posts/2023/setting-up-my-blog-with-hugo/</link>
       <pubDate>Wed, 04 Jan 2023 20:26:06 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2023/01/setting-up-my-blog-with-hugo/</guid>
+      <guid>https://pace577.github.io/posts/2023/setting-up-my-blog-with-hugo/</guid>
       <description>This post is going to be part tutorial, part conversation, and part rant. If you have come here to know how to set up a blog using Hugo, please try not to get annoyed by the occasional rant. You have been warned.
 I have always wanted to start a blog, despite having no idea what to write about. One fine day I decided to just start a blog and decide later about what to write.</description>
     </item>
-    
     <item>
       <title>Duality</title>
-      <link>https://pace577.github.io/posts/2022/09/duality/</link>
+      <link>https://pace577.github.io/posts/2022/duality/</link>
       <pubDate>Mon, 12 Sep 2022 21:01:35 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2022/09/duality/</guid>
+      <guid>https://pace577.github.io/posts/2022/duality/</guid>
       <description>Growing up as a mathematics student taught me a thing or two about problem-solving, and most (if not all) math students love elegant solutions to problems. Back when I was 11th grade, the math teacher used to gave the entire class a small set of problems to solve, and discuss the solutions to these problems in the next class. The interesting thing was that he always discussed multiple ways to solve the same problem.</description>
     </item>
-    
     <item>
       <title>Sleep</title>
-      <link>https://pace577.github.io/posts/2022/08/sleep/</link>
+      <link>https://pace577.github.io/posts/2022/sleep/</link>
       <pubDate>Thu, 25 Aug 2022 14:47:05 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2022/08/sleep/</guid>
+      <guid>https://pace577.github.io/posts/2022/sleep/</guid>
       <description>I get an average of 5 hours of sleep per day. Five hours.
 It wasn&amp;#39;t always like this. There were times when I slept around 8 hours a day. That&amp;#39;s the recommended number of hours of sleep one must get right? I heard that different people tend to sleep different amounts of time, but I&amp;#39;m pretty sure that 5 hours is not in the set of all recommended durations of sleep for a human being.</description>
     </item>
-    
     <item>
       <title>Taking Care of Yourself</title>
-      <link>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</link>
+      <link>https://pace577.github.io/posts/2022/taking-care-of-yourself/</link>
       <pubDate>Fri, 12 Aug 2022 10:07:48 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2022/08/taking-care-of-yourself/</guid>
+      <guid>https://pace577.github.io/posts/2022/taking-care-of-yourself/</guid>
       <description>I don&amp;#39;t think I take proper care of myself. It&amp;#39;s not that I have good intentions, but somehow those intentions do not seem to translate into actions. I want to eat healthy food 3 times a day, drink plenty of water everyday, take 2 baths a day, read news everyday, learn something new everyday, talk to my parents everyday and do many more things! But I look at my lifestyle and I look at the list of things I want to do above, and I think to myself &amp;#34;How in the world can I do all that in a day?</description>
     </item>
-    
     <item>
       <title>First Post</title>
-      <link>https://pace577.github.io/posts/2022/08/first-post/</link>
+      <link>https://pace577.github.io/posts/2022/first-post/</link>
       <pubDate>Tue, 02 Aug 2022 14:54:03 +0530</pubDate>
-      
-      <guid>https://pace577.github.io/posts/2022/08/first-post/</guid>
+      <guid>https://pace577.github.io/posts/2022/first-post/</guid>
       <description>I was listening to Brian Armstrong being interviewed on the Lex Fridman&amp;#39;s podcast when I heard him say the following (or something along those lines).
 &amp;#34;Don&amp;#39;t think too much, just try something. Only then will you be able to figure something out.&amp;#34;
 I have been intending to start a blog for quite some time now, but I was never able to finish a post. I&amp;#39;ve made multiple excuses for myself, saying that I don&amp;#39;t have the time or that the post is not perfect (It needs to be perfect, right?</description>
     </item>
-    
   </channel>
 </rss>

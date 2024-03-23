@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Prabhat Lankireddy</title>
+    <link>http://localhost:1313/categories/projects/</link>
+    <description>Recent content in Projects on Prabhat Lankireddy</description>
+    <image>
+      <title>Prabhat Lankireddy</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Sep 2021 10:50:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AES Verilog</title>
+      <link>http://localhost:1313/posts/projects/aes-verilog/</link>
+      <pubDate>Thu, 16 Sep 2021 10:50:47 +0530</pubDate>
+      <guid>http://localhost:1313/posts/projects/aes-verilog/</guid>
+      <description> project AES Verilog
+Project AES Verilog </description>
+    </item>
+    <item>
+      <title>Voice Conversion</title>
+      <link>http://localhost:1313/posts/projects/voice-conversion/</link>
+      <pubDate>Wed, 15 Sep 2021 13:23:20 +0530</pubDate>
+      <guid>http://localhost:1313/posts/projects/voice-conversion/</guid>
+      <description>Voice conversion attempts to replicate human mimicry digitally.</description>
+    </item>
+  </channel>
+</rss>
