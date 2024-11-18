@@ -6,9 +6,7 @@ title = "Research"
 insert_anchor_links = "left"
 +++
 
-## Current research
-
-### Effect of online algorithms on the environment they learn
+## Current Research: Effect of online algorithms on the environment they learn
 
 ## Past research
 
